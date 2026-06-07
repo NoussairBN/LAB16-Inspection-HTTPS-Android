@@ -20,7 +20,7 @@ L'objectif de ce laboratoire est de configurer un environnement d'analyse dynami
 5. [Étape 3 : Configuration du Proxy & Installation de la CA](#étape-3--configuration-du-proxy--installation-de-la-ca)
 6. [Étape 4 : Contournement du SSL Pinning avec Objection](#étape-4--contournement-du-ssl-pinning-avec-objection)
 7. [Étape 5 : Validation & Capture du Trafic](#étape-5--validation--capture-du-trafic)
-8. [🛠️ Script Utilitaire de Proxy](#%EF%B8%8F-script-utilitaire-de-proxy)
+8. [Script Utilitaire de Proxy](#%EF%B8%8F-script-utilitaire-de-proxy)
 9. [❓ Dépannage & FAQ](#-dépannage--faq)
 10. [⚠️ Avertissement Légal](#%EF%B8%8F-avertissement-légal)
 
@@ -58,7 +58,7 @@ graph TD
 
 ---
 
-## 💻 Prérequis & Environnement de Test
+## Prérequis & Environnement de Test
 
 Le lab a été exécuté sur un poste de travail Windows avec les spécifications techniques suivantes :
 * **Système d'exploitation :** Windows 10.0.26200
@@ -195,7 +195,7 @@ Nous pouvons désormais saisir des identifiants de test dans le formulaire de co
 
 ---
 
-## 🛠️ Script Utilitaire de Proxy
+## Script Utilitaire de Proxy
 
 Pour simplifier les tâches répétitives liées à l'application et au nettoyage de la configuration du proxy système sur l'émulateur, ce dépôt contient le script utilitaire [`manage_proxy.ps1`](file:///c:/Users/bouan/Documents/MOBILE_SECURITY/LAB16-Inspection-HTTPS-Android/manage_proxy.ps1).
 
