@@ -11,7 +11,7 @@ L'objectif de ce laboratoire est de configurer un environnement d'analyse dynami
 
 ---
 
-## 📋 Table des Matières
+## Table des Matières
 
 1. [Architecture & Fonctionnement](#-architecture--fonctionnement)
 2. [Prérequis & Environnement de Test](#-prérequis--environnement-de-test)
@@ -26,7 +26,7 @@ L'objectif de ce laboratoire est de configurer un environnement d'analyse dynami
 
 ---
 
-## 🔍 Architecture & Fonctionnement
+## Architecture & Fonctionnement
 
 L'inspection de trafic chiffré sur Android nécessite la mise en place d'une attaque *Man-in-the-Middle* (MitM) contrôlée :
 
